@@ -1,6 +1,6 @@
 {
   "name": "grunt-browserify-builder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Grunt task for browserify-builder",
   "main": "tasks/browserify-builder.js",
   "files": [
