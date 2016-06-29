@@ -2,7 +2,10 @@
   "name": "grunt-browserify-builder",
   "version": "1.0.0",
   "description": "Grunt task for browserify-builder",
-  "main": "index.js",
+  "main": "tasks/browserify-builder.js",
+  "files": [
+    "tasks"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/buildium/grunt-browserify-builder/issues"
   },
-  "homepage": "https://github.com/buildium/grunt-browserify-builder#readme"
+  "homepage": "https://github.com/buildium/grunt-browserify-builder#readme",
+  "peerDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
