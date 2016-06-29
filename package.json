@@ -1,0 +1,23 @@
+{
+  "name": "grunt-browserify-builder",
+  "version": "1.0.0",
+  "description": "Grunt task for browserify-builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buildium/grunt-browserify-builder.git"
+  },
+  "keywords": [
+    "browserify-tool",
+    "grunt"
+  ],
+  "author": "Buildium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buildium/grunt-browserify-builder/issues"
+  },
+  "homepage": "https://github.com/buildium/grunt-browserify-builder#readme"
+}
